@@ -1,0 +1,7 @@
+D:\проги\clab6.1\clab6.1\bin\Debug\clab6.1.exe.config
+D:\проги\clab6.1\clab6.1\bin\Debug\clab6.1.exe
+D:\проги\clab6.1\clab6.1\bin\Debug\clab6.1.pdb
+D:\проги\clab6.1\clab6.1\obj\Debug\clab6.1.csproj.AssemblyReference.cache
+D:\проги\clab6.1\clab6.1\obj\Debug\clab6.1.csproj.CoreCompileInputs.cache
+D:\проги\clab6.1\clab6.1\obj\Debug\clab6.1.exe
+D:\проги\clab6.1\clab6.1\obj\Debug\clab6.1.pdb
